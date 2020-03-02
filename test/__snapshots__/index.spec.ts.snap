@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`@gilbarbara/hooks should have all exports 1`] = `
+Array [
+  "useDebounce",
+  "useEventListener",
+  "useInterval",
+  "useKeyPress",
+  "useLocalStorage",
+  "useOnScreen",
+  "usePrevious",
+  "useScript",
+  "useStateMap",
+  "useTimeout",
+  "useWhyDidYouUpdate",
+  "useWindowSize",
+]
+`;
